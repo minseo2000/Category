@@ -1,6 +1,13 @@
 # 책 카테고리
 
+1. <a href="#it">정보처리기사</a> <br>
+2. <a href="#data">빅데이터분석기사</a> <br>
+3. <a href="#economy">경영정보시각화능력</a> <br>
+
+
 # 정보처리기사 자격증
+
+<a id="it">it</a>
 
 <hr>
 
@@ -12,6 +19,7 @@
 
 
 # 빅데이터 분석기사 자격증
+<a id="data">data</a>
 
 <hr>
 
@@ -21,7 +29,7 @@
 ![img_11.png](img_11.png)
 
 # 경영정보시각화능력 자격증
-
+<a id="economy">economy</a>
 <hr>
 
 ![img.png](img.png)
